@@ -1,0 +1,15 @@
+***Objects***
+p1Camera
+transform (-100,0,0 | 0,0,0 | 1,1,1)
+
+p1LightSys
+transform (-112,0,0 | ... | ...)
+
+p1Ship
+transform(-110,0,15 | 0,90,0 | 1,1,1)
+
+p1Emission
+transform (-113,0,15 | 0,270,90 | 1,1,1)
+
+ship1Setup
+Scale (0.3377225,0.3377225,0.3377225)
